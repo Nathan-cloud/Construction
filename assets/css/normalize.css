@@ -3700,8 +3700,8 @@
    
    .we-bring-container {
      padding: 130px 20px 120px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg  ");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -4540,8 +4540,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, auto;
      background-repeat: repeat, no-repeat;
@@ -5064,7 +5064,7 @@
    
    .contact-top-banner {
      min-height: 600px;
-     background-image: url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/6204e446f2ceced2b1efc81d_Parallax-4.jpeg");
+     background-image: url("../img/6204e446f2ceced2b1efc81d_Parallax-4.jpeg");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -5927,8 +5927,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -5959,8 +5959,8 @@
      -webkit-align-items: flex-start;
      -ms-flex-align: start;
      align-items: flex-start;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
      background-position: 0px 0px, 50% 0%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -6327,8 +6327,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.3)), to(rgba(17, 17, 17, 0.3))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
-     background-image: linear-gradient(180deg, rgba(17, 17, 17, 0.3), rgba(17, 17, 17, 0.3)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.3)), to(rgba(17, 17, 17, 0.3))), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+     background-image: linear-gradient(180deg, rgba(17, 17, 17, 0.3), rgba(17, 17, 17, 0.3)), url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -7020,8 +7020,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f8d30834a2a08b009321e_blog-reverside-house.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620f8d30834a2a08b009321e_blog-reverside-house.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("../img/620f8d30834a2a08b009321e_blog-reverside-house.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/620f8d30834a2a08b009321e_blog-reverside-house.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -7432,8 +7432,8 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
