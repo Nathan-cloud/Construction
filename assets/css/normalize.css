@@ -399,7 +399,7 @@ h2 {
   font-size: 32px;
   line-height: 36px;
   margin-top: 20px;
-    color: #FF5733;
+    color: #FF0000;
 }
 h3 {
   font-size: 24px;
@@ -4679,7 +4679,7 @@ h1 {
 h2 {
   margin-top: 0px;
   margin-bottom: 0px;
-  color: #FF5733;
+  color: #FF0000;
   font-size: 45px;
   line-height: 1.2;
   font-weight: 400;
@@ -5434,7 +5434,7 @@ strong {
   border-color: #000;
   background-color: #fff;
   font-size: 20px;
-  color: #FF5733;
+  color: #FF0000;
   letter-spacing: 7.4px;
   -o-object-fit: contain;
   object-fit: contain;
@@ -6113,7 +6113,7 @@ strong {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #FF5733;
+  background-color: #FF0000;
 }
 
 .link {
@@ -7865,11 +7865,11 @@ strong {
 
 .banner-title h1 {
  
-  color: #FF5733;
+  color: #FF0000;
 }
 /* .button-with-border-container a{
-  color: #FF5733;
-  border-color:    #FF5733;;
+  color: #FF0000;
+  border-color:    #FF0000;;
 } */
 
 .text-center {
@@ -9651,7 +9651,7 @@ background-image: linear-gradient(
 .home-with-video-heading {
   font-size: 60px;
   letter-spacing: 4.6px;
-  color: #FF5733;
+  color: #FF0000;
 }
 
 .home-with-video-services-item {
@@ -9745,7 +9745,7 @@ background-image: linear-gradient(
   font-family: "Fa brands 400", sans-serif;
   font-size: 18px;
   line-height: 1.2;
-  color: #FF5733;
+  color: #FF0000;
   
 }
 
