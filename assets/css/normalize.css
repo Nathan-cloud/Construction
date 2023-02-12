@@ -5154,9 +5154,11 @@ strong {
   margin-bottom: 0px;
   padding-left: 20px;
   font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-size: 15px;
+  font-weight: 600;
   line-height: 1.6;
   letter-spacing: 0.5px;
+  text-transform: uppercase;
 }
 
 .features-blocks-image-container {
@@ -8274,6 +8276,7 @@ background-image: linear-gradient(
 
 .testimonials-item-text {
   letter-spacing: 3.2px;
+  font-size: 30px;
 }
 
 .right-arrow-icon {
