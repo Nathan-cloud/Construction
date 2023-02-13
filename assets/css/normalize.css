@@ -7877,7 +7877,12 @@ background-image: linear-gradient(
 .text-center {
   text-align: center;
 }
-
+.justify-content-center{
+  align-items: center;
+  justify-self: center;
+  margin-top: 60px;
+  margin-right: -130px;
+}
 .section {
   padding-top: 130px;
   padding-bottom: 130px;
@@ -12066,6 +12071,9 @@ background-image: linear-gradient(
 }
 
 @media screen and (max-width: 991px) {
+  .justify-content-center{
+    margin: auto;
+  }
   h1 {
     font-size: 60px;
   }
