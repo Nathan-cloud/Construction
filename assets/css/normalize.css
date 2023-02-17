@@ -5373,8 +5373,8 @@ strong {
 .container-for-border {
   position: relative;
   width: 100%;
-  padding-right: 70px;
-  padding-left: 70px;
+  /* padding-right: 70px;
+  padding-left: 70px; */
 }
 
 .container-for-border.background-shadow {
@@ -6047,7 +6047,7 @@ strong {
 
   padding: 10px;
 
-  grid-template-columns: 3fr 3fr;
+  grid-template-columns: repeat(3, 3fr);
 }
 
 .flex-horizontal {
@@ -7897,7 +7897,17 @@ background-image: linear-gradient(
   border-left-width: 1px;
   border-left-color: #000;
 }
-
+#we-process{
+  background-image:  linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
 .section.borders.leadership-team-background {
   background-image: url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/61fbfdbe43eb428ab2a51c86_team-bg.png");
   background-position: 100% 75%;
@@ -8852,10 +8862,7 @@ background-image: linear-gradient(
   border: 1px solid #000;
 }
 
-.right-left-borders {
-  border-right: 1px solid #000;
-  border-left: 1px solid #000;
-}
+
 
 .home-2-categories {
   display: -webkit-box;
@@ -10525,7 +10532,7 @@ background-image: linear-gradient(
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 60%;
+  width: 100%;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -12341,10 +12348,7 @@ background-image: linear-gradient(
     grid-template-columns: 1fr 1fr;
   }
 
-  .what-new-post-gallery {
-    -ms-grid-columns: 1fr;
-    grid-template-columns: 1fr;
-  }
+
 
   .flex-horizontal.cpt-gallery-container {
     display: block;
