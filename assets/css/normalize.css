@@ -7881,7 +7881,7 @@ background-image: linear-gradient(
   align-items: center;
   justify-self: center;
   margin-top: 60px;
-  margin-right: -130px;
+  margin-right: -289px;
 }
 .section {
   padding-top: 130px;
@@ -12349,6 +12349,10 @@ background-image: linear-gradient(
   }
 
 
+  .what-new-post-gallery {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
 
   .flex-horizontal.cpt-gallery-container {
     display: block;
