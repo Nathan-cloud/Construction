@@ -5670,13 +5670,13 @@ strong {
       from(rgba(0, 0, 0, 0.7)),
       to(rgba(0, 0, 0, 0.7))
     ),
-    url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+    url("../img/we-bring.jpg");
   background-image: linear-gradient(
       180deg,
       rgba(0, 0, 0, 0.7),
       rgba(0, 0, 0, 0.7)
     ),
-    url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg  ");
+    url("../img/we-bring.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -6035,19 +6035,24 @@ strong {
   opacity: 0;
   color: rgba(0, 0, 0, 0.3);
 }
-
+.w-dyn-list{
+  position: relative;
+  left: -135px;
+  
+  }
 .what-new-post-gallery {
   display: -ms-grid;
   display: grid;
   width: 100%;
   max-width: 1180px;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: -10%;
    grid-gap: 10px;
 
-  padding: 10px;
+   padding: 100px;
 
-  grid-template-columns: repeat(3, 3fr);
+
+  grid-template-columns: 500px 500px 500px;
 }
 
 .flex-horizontal {
@@ -7051,7 +7056,7 @@ background-image: linear-gradient(
 
 .contact-top-banner {
   min-height: 600px;
-  background-image: url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+  background-image: url("../img/contact-bg.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7881,7 +7886,7 @@ background-image: linear-gradient(
   align-items: center;
   justify-self: center;
   margin-top: 60px;
-  margin-right: -289px;
+  margin-right: -250px;
 }
 .section {
   padding-top: 130px;
@@ -7902,7 +7907,7 @@ background-image: linear-gradient(
     180deg,
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)
-  ),url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+  ),url("../img/process.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -8379,13 +8384,13 @@ background-image: linear-gradient(
       from(rgba(17, 17, 17, 0.3)),
       to(rgba(17, 17, 17, 0.3))
     ),
-    url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+    url("../img/client-bg.jpg");
   background-image: linear-gradient(
       180deg,
       rgba(17, 17, 17, 0.3),
       rgba(17, 17, 17, 0.3)
     ),
-    url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+    url("../img/client-bg.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -9127,13 +9132,13 @@ background-image: linear-gradient(
     from(rgba(17, 17, 17, 0.3)),
     to(rgba(17, 17, 17, 0.3))
   ),
-  url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+  url("../img/new-bg.jpg");
 background-image: linear-gradient(
     180deg,
     rgba(17, 17, 17, 0.3),
     rgba(17, 17, 17, 0.3)
   ),
-  url("../img/620f75c73eec5a7f032a2cf2_we-bring-bg.jpg");
+  url("../img/new-bg.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -9667,6 +9672,9 @@ background-image: linear-gradient(
   font-size: 60px;
   letter-spacing: 4.6px;
   color: #111;
+}
+.txt-white{
+  color: #fff;
 }
 
 .home-with-video-services-item {
@@ -11812,7 +11820,21 @@ background-image: linear-gradient(
   opacity: 1;
   color: #000;
 }
+@media screen and (max-width: 1395px) {
+  .w-dyn-list{
+    position: relative;
+    left: 0;
+    
+    }
+    .what-new-post-gallery {
+      grid-template-columns: repeat(3,1fr) ;
+      margin-left: auto;
+       grid-gap: 10px;
+    
+       padding: 0;
 
+  }
+}
 @media screen and (min-width: 1280px) {
   .slide-nav {
     display: none;
@@ -11860,8 +11882,7 @@ background-image: linear-gradient(
   .services-features-wrapper {
     margin-right: 80px;
     margin-left: 80px;
-    border-right: 1px solid #000;
-    border-left: 1px solid #000;
+
   }
 }
 
@@ -12352,8 +12373,13 @@ background-image: linear-gradient(
   .what-new-post-gallery {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
+    margin-left: auto;
+    padding: 2px;
   }
-
+.w-dyn-list{
+  left: 0;
+ 
+}
   .flex-horizontal.cpt-gallery-container {
     display: block;
   }
