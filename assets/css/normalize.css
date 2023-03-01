@@ -9604,20 +9604,22 @@ background-image: linear-gradient(
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(
+
+
+    background-image: -webkit-gradient(
       linear,
       left top,
       left bottom,
       from(rgba(0, 0, 0, 0.3)),
       to(rgba(0, 0, 0, 0.3))
     ),
-    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-2.jpg");
+    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-1.jpg");
   background-image: linear-gradient(
       180deg,
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.3)
     ),
-    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-2.jpg");
+    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-1.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -9644,13 +9646,15 @@ background-image: linear-gradient(
       from(rgba(0, 0, 0, 0.3)),
       to(rgba(0, 0, 0, 0.3))
     ),
-    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-1.jpg");
+    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-2.jpg");
   background-image: linear-gradient(
       180deg,
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.3)
     ),
-    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-1.jpg");
+    url("../img/620bc1eb0fc5761eaae6da2f_portfolio-banner-2.jpg");
+
+    
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
