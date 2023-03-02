@@ -11927,6 +11927,32 @@ background-image: linear-gradient(
   opacity: 1;
   color: #000;
 }
+@media screen and (max-width: 1669px) {
+
+  .bg-video{
+    display: none;
+   }
+   .home-with-video-banner{
+    background-image: -webkit-gradient(
+      linear,
+      left top,
+      left bottom,
+      from(rgba(0, 0, 0, 0.5)),
+      to(rgba(0, 0, 0, 0.5))
+    ),
+    url("../img/6202a4233cf8539d6634e627_pricing-bg.jpeg");
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url("../img/6202a4233cf8539d6634e627_pricing-bg.jpeg");
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+  background-repeat: repeat, no-repeat;
+   }
+}
+
 @media screen and (max-width: 1395px) {
   .w-dyn-list{
     position: relative;
