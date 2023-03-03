@@ -10155,6 +10155,8 @@ background-image: linear-gradient(
 
 .parallax-banner-5 {
   min-height: 800px;
+  padding-top: 130px;
+  padding-bottom: 130px;
   background-image: url("https://assets.website-files.com/60d2efc7e7814b8c05d09fb6/6204e44698a171a3b26d358c_Parallax-5.jpeg");
   background-position: 50% 50%;
   background-size: cover;
